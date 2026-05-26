@@ -1,3 +1,13 @@
+---
+title: AI Resume Screener
+emoji: 🤖
+colorFrom: purple
+colorTo: blue
+sdk: streamlit
+sdk_version: "1.32.0"
+app_file: app.py
+pinned: false
+---
 # 🤖 AI Resume Screener
 
 An end-to-end AI-powered resume screening system built with BERT semantic 
@@ -55,5 +65,3 @@ streamlit run app.py
 ├── skill_analyzer.py     # Skill gap analyzer
 └── requirements.txt
 
-## 👩‍💻 Built by
-Newshika S K — B.Tech AI & Data Science, Kumaraguru College of Technology
