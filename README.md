@@ -14,7 +14,7 @@ An end-to-end AI-powered resume screening system built with BERT semantic
 matching, ATS simulation, skill gap analysis, and role-based access control.
 
 ## 🔗 Live Demo
-[Try it on Hugging Face →](YOUR_LINK_HERE)
+[Try it on Hugging Face →](https://huggingface.co/spaces/NEWSHIKA/AI_Resume_Screener)
 
 ## 🎯 What it does
 
