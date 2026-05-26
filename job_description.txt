@@ -1,0 +1,7 @@
+We are looking for a Machine Learning Engineer with strong skills in Python, 
+scikit-learn, PyTorch, TensorFlow, NLP, computer vision, OpenCV, model deployment, 
+REST APIs using Flask, MongoDB, deep learning, SHAP explainability, 
+LangChain, and transformer-based models. Experience with real-time inference 
+and object detection (YOLO) is a plus.
+Experience with YOLO, scikit-learn, and Flask web framework is required.
+Python programming is mandatory.

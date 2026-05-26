@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# User data — never push this
+users.json
+*.pdf
+
+# VS Code
+.vscode/
+
+# Large model cache
+.cache/
+sentence_transformers/
